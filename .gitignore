@@ -1,0 +1,12 @@
+﻿node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+__pycache__/
+*.pyc
+*.db
+round2_local.db
+.env
+backend/.env
+.venv/
+venv/
